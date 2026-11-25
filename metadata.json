@@ -1,0 +1,8 @@
+{
+  "name": "Vesper Roastery & Café",
+  "description": "Interactive 3D architectural specialty café storefront with live interior aesthetic synchronization, full ordering and spatial table reservation logic, and an exportable IDE 3D development blueprint.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
